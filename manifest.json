@@ -14,7 +14,7 @@
   "background": {
     "service_worker": "sw.js"
   },
-  "permissions": ["tabs"],
+  "permissions": [],
   "homepage_url": "https://www.buymeacoffee.com/thoughtminers",
   "author": "thoughtminers",
   "icons": {
